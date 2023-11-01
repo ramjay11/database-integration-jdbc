@@ -1,4 +1,4 @@
-package connecthsqldb;
+package com.ramjava.database.integration.jdbc.connecthsqldb;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
